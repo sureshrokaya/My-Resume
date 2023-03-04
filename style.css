@@ -1,0 +1,16 @@
+#who{background: green;
+padding: 20px; text-align: center;
+color: white;
+}
+/*.img-circle{border-radius: 50%;}*/
+#what{background: black;
+	text-align: center;
+color: white;
+padding: 100px;}
+#where{text-align: center;
+padding:70px;}
+#footer{background: black;
+	padding: 40px;
+color: white;}
+/*.navbar{background-color:white;
+}*/
